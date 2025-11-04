@@ -1,0 +1,2 @@
+transister
+termister
