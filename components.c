@@ -2,3 +2,4 @@ transister
 termister
 resister
 capacitor
+transducer
