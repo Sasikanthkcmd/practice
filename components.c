@@ -1,2 +1,3 @@
 transister
 termister
+resister
