@@ -1,3 +1,4 @@
 transister
 termister
 resister
+capacitor
